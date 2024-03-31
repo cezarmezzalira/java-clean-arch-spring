@@ -1,4 +1,4 @@
-package dev.codeea.cleanarch.core.entity;
+package dev.codeea.cleanarch.core.entities;
 
 public enum EnumTipoPessoa {
     FISICA,
